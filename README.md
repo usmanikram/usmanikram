@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanikram&label=Profile%20views&color=0e75b6&style=flat" alt="usmanikram" /> </p>
 
-- 🌱 I’m currently learning **Laravel and Machine Learning**
+- 🌱 I’m currently learning **Django Framework and DevOps Tools and Methodology**
 
 - 📫 How to reach me **usmanikram.ch@gmail.com**
 
